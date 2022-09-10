@@ -37,9 +37,9 @@
     <a href="https://docs.google.com/document/d/1dyQ1PNaUnZQlqb_oTbrhhm3xdE_eACdu223YXWaBXs4/edit?usp=sharing"><strong>Read our Report »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=OiTX5_LfhzA">Watch our Video</a>
+    <a href="https://www.youtube.com/watch?v=og3ETiazrNQ">Watch our Trailer</a>
     ·
-    <a href="https://nusskylab-dev.comp.nus.edu.sg/posters/2022/5062.jpg">View our Poster</a>
+    <a href="https://www.youtube.com/watch?v=V6AtUlLv1u0">Watch our Demo</a>
   </p>
 </div>
 
